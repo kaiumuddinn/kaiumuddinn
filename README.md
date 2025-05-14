@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaium</h1>
 <h3 align="center">A passionate & self learner web developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Beginner+Web+Developer;Always+learning+and+building+💻" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
