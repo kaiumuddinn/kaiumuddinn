@@ -28,15 +28,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaiumUddin7000&show_icons=true&theme=tokyonight" alt="Kaium's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiumuddinn&show_icons=true&theme=tokyonight" alt="Kaium's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiumUddin7000&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiumuddinn&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiumUddin7000&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiumuddinn&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
